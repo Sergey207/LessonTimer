@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LessonTimer</string>
+    <string name="settings">Настройки</string>
+    <string name="save">Сохранить</string>
+    <string name="add">Добавить</string>
+    <string name="back">Назад</string>
+    <string name="time_of_lesson">Процент от урока: </string>
+    <string name="time_of_workday">Процент от рабочего дня: </string>
+    <string name="time_of_day">Процент от дня: </string>
+    <string name="start_time">Время начала урока</string>
+    <string name="end_time">Время конца урока</string>
+    <string name="Monday">Понедельник</string>
+    <string name="Tuesday">Вторник</string>
+    <string name="Wednesday">Среда</string>
+    <string name="Thursday">Четверг</string>
+    <string name="Friday">Пятница</string>
+    <string name="Saturday">Суббота</string>
+    <string name="Sunday">Воскресенье</string>
+    <string name="on">Есть урок</string>
+    <string name="off">Нет урока</string>
+</resources>
