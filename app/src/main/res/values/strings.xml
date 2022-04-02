@@ -18,4 +18,5 @@
     <string name="Sunday">Воскресенье</string>
     <string name="on">Есть урок</string>
     <string name="off">Нет урока</string>
+    <string name="drop_table">DROP TABLE</string>
 </resources>
